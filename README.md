@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🎓 BS from Dongguk University
-✏ Majored in Chemistry
-💻 Learning Python, SQL, R
-📕 Interested in ML, DL
+🎓 BS from Dongguk University \n
+✏ Majored in Chemistry \n
+💻 Learning Python, SQL, R \n
+📕 Interested in ML, DL \n
 
 <!--
 **YulminSung/YulminSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
