@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🎓 BS from Dongguk University \n
-✏ Majored in Chemistry \n
+<p> 🎓 BS from Dongguk University </p>
+<p> ✏ Majored in Chemistry </p>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
