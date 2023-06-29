@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p><b>🎓 BS from Dongguk University</b></p>
-<p><b>✏ Majored in Chemistry</b></p></br>
+<p><b>✏ Majored in Chemistry</b></p>
 <p><b>🎖Completed the Big Data Analytics Using AI Platforms Expert Course</b></p></br>
 
 <div align="center">
