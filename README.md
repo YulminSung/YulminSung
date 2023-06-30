@@ -1,12 +1,10 @@
-<div align="center">
-    <p>### Hi there 👋<p>
-	
-    <p><b>🎓 BS from Dongguk University</b></p>
-    <p><b>✏ Majored in Chemistry</b></p>
-    <p><b>🎖&nbsp; Completed the Big Data Analytics Using AI Platforms Expert Course</b></p>
-    <p><b>⚖ Received the Engineer Information Processing certificate</b></p>
-    <p><b>⚖ Received the Structured Query Language Developer(SQLD) certificate</b></p>
-</div></br>
+### Hi there 👋
+
+<p><b>🎓 BS from Dongguk University</b></p>
+<p><b>✏ Majored in Chemistry</b></p>
+<p><b>🎖&nbsp; Completed the Big Data Analytics Using AI Platforms Expert Course</b></p>
+<p><b>⚖ Received the Engineer Information Processing certificate</b></p>
+<p><b>⚖ Received the Structured Query Language Developer(SQLD) certificate</b></p>
 
 <div align="center">
     <p style="font-size:15px"><b>📚 Tech Stack 📚</b></p>
