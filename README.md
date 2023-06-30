@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></br>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />		
-        <img src="https://img.shields.io/badge/TenserFlow-FF6F00?style=flat&logo=TenserFlow&logoColor=white" />	
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />	
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />	
     <p><b>🛠 Tools 🛠</b><p>
