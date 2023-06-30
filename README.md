@@ -16,10 +16,11 @@
     <p>🛠 Tools 🛠<p>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />   
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
+        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></br>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />  
         <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />  
-        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
         <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
 </div>
 
