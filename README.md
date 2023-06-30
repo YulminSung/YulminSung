@@ -11,12 +11,14 @@
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-CC2927?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></br>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></br>
     <p>🛠 Tools 🛠<p>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-    <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+        <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />    
+        <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
 </div>
 
 <!--
