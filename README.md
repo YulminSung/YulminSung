@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
         <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-</div>
+</div></br>
 
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sung4510)](https://solved.ac/sung4510)
