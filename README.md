@@ -34,6 +34,8 @@
 
 [def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Profile&fontSize=90
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sung4510)](https://solved.ac/sung4510)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYulminSung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
