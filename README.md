@@ -8,7 +8,7 @@
 
 <div align="center">
     <p style="font-size:15px"><b>📚 Tech Stack 📚</b></p>
-    <p>✨ Platforms & Languages ✨<p>
+    <p><b>✨ Platforms & Languages ✨</b><p>
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/TenserFlow-FF6F00?style=flat&logo=TenserFlow&logoColor=white" />	
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />	
-    <p>🛠 Tools 🛠<p>
+    <p><b>🛠 Tools 🛠</b><p>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
         <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
