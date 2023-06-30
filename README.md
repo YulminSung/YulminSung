@@ -34,7 +34,7 @@
 
 [def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Profile&fontSize=90
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?YulminSung={YulminSung}&show_icons=true&theme={theme})](https://github.com/{YulminSung}/github-readme-stats)
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sung4510)](https://solved.ac/sung4510)
 
