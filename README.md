@@ -1,4 +1,4 @@
-### Hi there 👋</br>
+### Hi there 👋
 
 <p><b>🎓 BS from Dongguk University</b></p>
 <p><b>✏ Majored in Chemistry</b></p>
