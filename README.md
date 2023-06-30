@@ -1,3 +1,4 @@
+![header][def]
 ### Hi there 👋
 
 <p><b>🎓 BS from Dongguk University</b></p>
@@ -31,6 +32,7 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div></br>
 
+[def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Profile&fontSize=90
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sung4510)](https://solved.ac/sung4510)
 
