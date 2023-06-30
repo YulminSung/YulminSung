@@ -7,7 +7,7 @@
 <p><b>⚖ Received the Structured Query Language Developer(SQLD) certificate</b></p></br>
 
 <div align="center">
-    <p style="font-size:15px"><b>📚 Tech Stack 📚</b></p>
+    <p style="font-size:18px"><b>📚 Tech Stack 📚</b></p>
     <p><b>✨ Platforms & Languages ✨</b><p>
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
