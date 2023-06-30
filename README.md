@@ -10,19 +10,25 @@
     <p style="font-size:15px"><b>📚 Tech Stack 📚</b></p>
     <p>✨ Platforms & Languages ✨<p>
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-CC2927?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />		
+        <img src="https://img.shields.io/badge/TenserFlow-FF6F00?style=flat&logo=TenserFlow&logoColor=white" />	
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />	
     <p>🛠 Tools 🛠<p>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
         <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
-        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></br>
+        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" /></br>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />  
         <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />  
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
         <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div>
 
 <!--
