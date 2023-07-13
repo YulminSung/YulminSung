@@ -33,7 +33,6 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div></br>
 
-#[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sung4510)](https://solved.ac/sung4510)
 
 <!--
 **YulminSung/YulminSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
